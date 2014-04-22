@@ -65,7 +65,7 @@ class Main( object ):
         elif method == 'd':
             self.decipher()
         else:
-            print("Invalid option!")
+            print("Invalid option! Learn to type...")
         
     
     def encipher( self ):
