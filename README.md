@@ -2,7 +2,7 @@ ciphers
 =======
 
 
-Encipher and decipher text using ceaser, atbash and vigenere methods. Ceaser also has a bruteforcer :-)
+Encipher and decipher text using caeser, atbash and vigenere methods. Caeser also has a bruteforcer :-)
 
 The advanced vigenere cipher does not remove spaces or convert to uppercase - there is no need, as there are now 95 possible characters, including spaces.
 
