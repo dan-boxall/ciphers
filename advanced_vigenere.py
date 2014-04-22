@@ -5,7 +5,7 @@ class Rows( object ):
     """
        This class is just used to produce rows of all characters
        required for an advanced viginere cipher, starting from ' '
-       and ending in '~'
+       and ending in '~' (ASCII codes 32-126)
     """
     
     def __init__( self ):
