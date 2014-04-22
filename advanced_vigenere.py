@@ -15,7 +15,7 @@ class Rows( object ):
     
     def shift( self, char, key ):
         """
-           Essentially a ceaser cipher, which is 
+           Essentially a caeser cipher, which is 
            passed one character and a shift key at a time
         """
         shifted = chr(ord( char ) + key)
